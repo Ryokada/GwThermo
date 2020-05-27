@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermoHandler", "src\csharp\ThermoHandler\ThermoHandler.csproj", "{21E7B94B-42F2-4A38-A009-4C25A556CE73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GwThermoFunction", "src\csharp\GeThermoFunction\GwThermoFunction.csproj", "{69D5EF31-1B3B-4974-AE74-98F3D17E4733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation", "src\csharp\Foundation\Foundation.csproj", "{45536367-42ED-4CE9-9258-08DCA8E9C1DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GwThermoWeb", "src\csharp\GwThermoWeb\GwThermoWeb.csproj", "{2C49C454-6AA3-45A4-8CD5-DBA1556393C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21E7B94B-42F2-4A38-A009-4C25A556CE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E7B94B-42F2-4A38-A009-4C25A556CE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E7B94B-42F2-4A38-A009-4C25A556CE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E7B94B-42F2-4A38-A009-4C25A556CE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D5EF31-1B3B-4974-AE74-98F3D17E4733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D5EF31-1B3B-4974-AE74-98F3D17E4733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D5EF31-1B3B-4974-AE74-98F3D17E4733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D5EF31-1B3B-4974-AE74-98F3D17E4733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45536367-42ED-4CE9-9258-08DCA8E9C1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45536367-42ED-4CE9-9258-08DCA8E9C1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45536367-42ED-4CE9-9258-08DCA8E9C1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45536367-42ED-4CE9-9258-08DCA8E9C1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C49C454-6AA3-45A4-8CD5-DBA1556393C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C49C454-6AA3-45A4-8CD5-DBA1556393C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C49C454-6AA3-45A4-8CD5-DBA1556393C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C49C454-6AA3-45A4-8CD5-DBA1556393C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
